@@ -1,0 +1,36 @@
+
+.h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgba(0, 60, 255, 0.979);
+    text-decoration: underline black double 2px;
+    font-size: 72px;
+
+}
+.p1 a{
+
+    color: rgb(0, 47, 255);
+    text-decoration:  underline 5px;
+    font-size: xx-large;
+    font-weight: bold;
+    
+}
+.p1{
+    text-align: center
+}
+h1{
+    color: rgb(0, 107, 139);
+    text-decoration: underline;
+    font-size: 52px;
+    font-weight: 900;
+    
+    
+}
+dt{
+    background-color: rgba(105, 105, 105, 0.473);
+    font-size: 20px;
+}
+dd{
+    color: darkcyan;
+    font-weight: bold;
+}
